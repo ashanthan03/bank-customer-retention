@@ -1,5 +1,5 @@
 """
-Bank Customer Retention Analytics - EDA & Analysis (REAL DATA VERSION)
+Bank Customer Retention Analytics - EDA & Analysis
 Customer Engagement & Product Utilization Analysis
 Dataset: REAL European Central Bank Customer Data
 """
