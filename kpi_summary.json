@@ -1,0 +1,11 @@
+{
+  "total_customers": 10000,
+  "overall_churn_rate": 0.2037,
+  "engagement_retention_ratio": 1.1720024255365056,
+  "product_depth_index": 1.2066771834852736,
+  "cc_stickiness_score": 1.0079645592763546,
+  "at_risk_premium_count": 1247,
+  "at_risk_premium_churn_rate": 0.30473135525260625,
+  "avg_relationship_strength_retained": 49.60556849310762,
+  "avg_relationship_strength_churned": 44.68983862215207
+}

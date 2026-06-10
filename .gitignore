@@ -45,10 +45,3 @@ htmlcov/
 # Streamlit
 .streamlit/
 *.streamlit/
-
-# Misc
-*.csv
-*.json
-!requirements.txt
-!.gitignore
-!README.md
