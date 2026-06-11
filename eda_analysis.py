@@ -1,7 +1,7 @@
 """
 Bank Customer Retention Analytics - EDA & Analysis
 Customer Engagement & Product Utilization Analysis
-Dataset: REAL European Central Bank Customer Data
+Dataset: European Bank Customer Data (10,000 records)
 """
 
 import pandas as pd
