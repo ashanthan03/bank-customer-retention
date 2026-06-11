@@ -136,7 +136,7 @@ This project solves all three — with real data and actionable strategy.
 
 ```
 bank-customer-retention/
-├── dashboard.py              # 6-page Streamlit dashboard (911 lines)
+├── dashboard.py              # 6-page Streamlit dashboard
 ├── eda_analysis.py           # EDA & KPI calculation
 ├── research_paper.py         # Research paper generation
 ├── bank_customer_data.csv    # Real European Bank data (10,000 records)
@@ -252,6 +252,8 @@ streamlit run dashboard.py
 Final Year B.E. Computer Engineering (Data Science & ML)  
 Matrusri Engineering College, Hyderabad  
 
+This project was developed as part of my **Data Analyst Internship at Unified Mentor**, where I was assigned the Finance Analytics domain. The objective was to build an end-to-end analytics solution using real banking data — covering data validation, exploratory analysis, KPI development, and an interactive business dashboard — to deliver actionable retention strategy insights for stakeholders.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/shanthan-kumar-akkinapalli-914a81341)
 [![GitHub](https://img.shields.io/badge/GitHub-ashanthan03-black?logo=github)](https://github.com/ashanthan03)
 
@@ -260,7 +262,3 @@ Matrusri Engineering College, Hyderabad
 ## 📝 License
 
 This project is licensed under the MIT License.
-
----
-
-*Built with ❤️ for Unified Mentor Finance Analytics Internship*
