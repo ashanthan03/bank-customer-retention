@@ -600,7 +600,7 @@ END OF RESEARCH PAPER
 """
 
 # Save paper
-with open('RESEARCH_PAPER.txt', 'w') as f:
+with open('RESEARCH_PAPER.txt', 'w', encoding='utf-8') as f:
     f.write(RESEARCH_PAPER)
 
 print(RESEARCH_PAPER)
