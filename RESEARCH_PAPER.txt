@@ -1,11 +1,4 @@
-"""
-RESEARCH PAPER: CUSTOMER ENGAGEMENT & PRODUCT UTILIZATION ANALYTICS
-FOR RETENTION STRATEGY OPTIMIZATION
 
-Bank Customer Churn Analysis: A Behavioral & Relationship-Strength Perspective
-"""
-
-RESEARCH_PAPER = """
 ═════════════════════════════════════════════════════════════════════════════════
 CUSTOMER ENGAGEMENT & PRODUCT UTILIZATION ANALYTICS FOR RETENTION STRATEGY
 A Data-Driven Analysis of European Banking Customer Behavior
@@ -600,11 +593,3 @@ Month 9-12: Measure results, optimize, and scale
 ═════════════════════════════════════════════════════════════════════════════════
 END OF RESEARCH PAPER
 ═════════════════════════════════════════════════════════════════════════════════
-"""
-
-# Save paper
-with open('RESEARCH_PAPER.txt', 'w', encoding='utf-8') as f:
-    f.write(RESEARCH_PAPER)
-
-print(RESEARCH_PAPER)
-print("\n✓ Research Paper saved: RESEARCH_PAPER.txt")
